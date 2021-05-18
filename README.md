@@ -32,4 +32,8 @@ SAP Fiori elements application for managing products
 
 1. Active NodeJS LTS (Long Term Support) version and associated supported NPM version.  (See https://nodejs.org)
 
+## Open the main page:
+
+The main route for opening the app is the following: http://localhost:8080/index.html when running in the default port.
+
 
